@@ -1,6 +1,7 @@
 # rad-notes
-Personal radiology notes
+Personal Radiology Notes
 
-Neuro-notes
-
-MSK-notes
+Currently contains notes from
+  - Neuroradiology
+  - Pediatric
+  - MSK
