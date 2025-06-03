@@ -1,10 +1,10 @@
 # Shoulder MRI Step-by-Step
 1. Check bone cortex and bone marrow
   - Look at the following bones and follow their cortices
-   - [ ] Humerus
-   - [ ] Scapula
-   - [ ] Clavicle
-   - [ ] Ribs and spinal vertebrae
+    - [ ] Humerus
+    - [ ] Scapula
+    - [ ] Clavicle
+    - [ ] Ribs and spinal vertebrae
 2. Assess abnormal fluid in the bursa.
 3. Look at the AC-joint.
 4. Look at the glenohumeral joint.
