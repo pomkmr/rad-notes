@@ -2,6 +2,8 @@
 1. Check bone cortex and bone marrow
   - Look at the following bones and follow their cortices
     - [ ] Humerus
+      - [ ] Greater tubercle: Attachment site of multiple tendons, look for the three facets (S, M, I).
+      - [ ] Lesser tubercle: Check the biceps groove and see that the tendon is not dislocated.
     - [ ] Scapula
     - [ ] Clavicle
     - [ ] Ribs and spinal vertebrae
