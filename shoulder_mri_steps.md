@@ -15,10 +15,12 @@
   - Look at the coracoacromial and coracoclavicular ligaments
 3. Check all the tendons
   Check the PD and T2w images on all planes. Start with the rotator cuff tendons and muscles
-  a. Supraspinatus, most commonly injured.
-  b. Infraspinatus
-  c. Teres minor
-  d. Subscapularis
+  <ol type="a">
+    <li>Supraspinatus, most commonly injured./li>
+    <li>Infraspinatus</li>
+    <li>Subscapularis</li>
+    <li>Teres Minor</li>
+  </ol>
 4. Assess abnormal fluid in the bursa.
 5. Look at tissues and muscles
 6. Check neurovascular structures 
